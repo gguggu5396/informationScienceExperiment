@@ -17,4 +17,3 @@
 #### 이거는 푸에영
 
 ![곰돌이 푸](https://github.com/gguggu5396/informationScienceExperiment/blob/main/%ED%91%B8%ED%91%B8%ED%91%B8.jpg)
-
