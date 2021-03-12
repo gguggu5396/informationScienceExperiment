@@ -10,4 +10,4 @@
 
 [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
-![Alt text](/C:\Users\YDPHS002\Downloads/to/뽀로로.jpg
+![Alt text](/C:\Users\YDPHS002\Downloads/to/뽀로로.jpg)
