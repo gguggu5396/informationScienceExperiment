@@ -13,3 +13,8 @@
 #### 뽀로로입니당
 
 ![뽀로로](https://user-images.githubusercontent.com/80079693/110878852-4fbddd80-831f-11eb-9ab5-c607e4497536.jpg)
+
+#### 이거는 푸에영
+
+![곰돌이 푸](https://github.com/gguggu5396/informationScienceExperiment/blob/main/%ED%91%B8%ED%91%B8%ED%91%B8.jpg)
+
