@@ -19,8 +19,7 @@
 ![곰돌이 푸](https://github.com/gguggu5396/informationScienceExperiment/blob/main/%ED%91%B8%ED%91%B8%ED%91%B8.jpg)
 
 
-![sunglasses](https://lh3.googleusercontent.com/proxy/8ZXijzJB_jxsOuP9V21_7w0Vkh_1du2EmdORShsJEWO3qrxIpyNZuK13Fr3Dx_lwHn19qIt8OndvZ29GR3XpR_LrtmPMv2IiNhqoE4FrH5nssC6ePGEbCYXjQTPwylc)
-
+![sunglasses](https://lh3.googleusercontent.com/proxy/Psj6LFj2qLGEEctHTsO7hC7IyCIMQ5tDW88RQfgXx1Zcb6vCCPJkbByPV5LT8De4DHLRRS32uUByt3hA9UUDWjgRwdiN0kBfswBcGjjSjDlwE_gv52o9zFoKLvWjMdg)
 
 [동영상](https://youtu.be/9vI-DTRs76I)
 
